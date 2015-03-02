@@ -1,0 +1,9 @@
+name: Youtube
+main: me.justbru00.youtube.Youtube	
+version: 1.0
+description: A plugin with different stuff for youtube.
+
+
+commands:
+ hello:
+       description: Says Hello.   
